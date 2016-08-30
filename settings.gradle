@@ -1,2 +1,3 @@
 rootProject.name = 'algorithmsApp'
+include 'algorithms'
 
